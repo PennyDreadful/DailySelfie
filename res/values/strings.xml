@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Daily Selfie</string>
+    <string name="btnIntend">Take (big) Picture</string>
+    <string name="actionSelfie">Take Selfie</string>
+    <string name="btnIntendS">Take (small) Picture</string>
+    <string name="btnIntendV">Take Video</string>
+    <string name="cannot">Cannot</string>
+    <string name="album_name">Selfies</string>
+    <string name="selfie_desc_string">Selfie</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
